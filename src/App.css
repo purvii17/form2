@@ -1,0 +1,13 @@
+.field {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.paddingLeft {
+  padding-left: 6;
+}
+
+.offset{
+    margin-left: 25.5%;
+}
